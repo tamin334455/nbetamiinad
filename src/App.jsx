@@ -2,7 +2,7 @@ import { BrowserRouter,Route,Routes } from 'react-router-dom';
 import Main from './Main';
 
 // export const serverRoute = 'http://localhost:8080'
-export const serverRoute = 'https://betaminser-h3zg.onrender.com'
+export const serverRoute = 'https://nbetamiinser.onrender.com'
 export const token = localStorage.getItem('token')
 function App() {
   return (
